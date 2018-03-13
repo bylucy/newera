@@ -1,0 +1,9 @@
+Building Newera
+
+See doc/readme-qt.rst for instructions on building Newera QT,
+the intended-for-end-users, nice-graphical-interface, reference
+implementation of Newera.
+
+See doc/build-*.txt for instructions on building newerad,
+the intended-for-services, no-graphical-interface, reference
+implementation of Newera.
